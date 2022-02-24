@@ -1,0 +1,100 @@
+html {
+  min-height: 100%; 
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: linear-gradient(-225deg, #dff7fc 0%, #e1fcfc 52%, #B5EAEA 100%);
+  min-height: 100%;
+  padding-bottom: 5rem;
+}
+h1, h2  {
+  color: black;
+  padding: 3rem 0;
+  text-align: center;
+
+  text-transform: uppercase;
+
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+.item {
+  font-size: 1.5rem;
+  margin: 0 1rem;
+}
+.btn-link-regresar {
+  text-decoration: none;
+  color: #f30808;
+}
+.contenido {
+  padding:20px;
+  
+}
+.contenido-principal {
+  padding: 30px;
+  border-radius: 20px;
+}
+.formulario {
+  background-color: #fff;
+  font-size: larger;
+  padding: 30px;
+  border-radius: 20px;
+  border: 0.1rem solid #080808;
+  margin: 0 20rem;
+}
+.resultado {
+  padding: 30px;
+}
+.listado {
+  list-style: none;
+}
+.formulario-modal {
+  margin-bottom: 1rem;
+}
+.peliculas {
+  background-color: #fff;
+  padding: 1rem 2rem;
+}
+.dropdown {
+  margin: 0.2rem 2rem ;
+  
+}
+.custom-checkbox {
+  margin: 0 1rem ;
+}
+.ordenar {
+  margin: 0.4rem 0;
+}
+#imagenArrow {
+  transform: rotate(90deg);
+}
+.dropdown-ordenar {
+  margin: 0.4rem 1rem;
+}
+.input-search {
+  background-color: #fff;
+  border-radius: 10px 0 0 10px;
+  border: 0.1rem solid #080808;
+  border-right: none;
+  padding: 5px;
+  cursor: pointer;
+}
+.btn-search {
+  background-color: #fff;
+  border-radius: 0 10px 10px 0;
+  border: 0.1rem solid #080808;
+  border-left: none;
+}
+.card-1 h5 {
+  font-size: 0.8rem;
+}
+.card-1 h6 {
+  font-size: 0.6rem;
+}
+.card-1 span {
+  font-size: 0.7rem;
+  line-height: 1.5;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
